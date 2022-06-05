@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Web | Portofolio</title>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <nav>
+                <ul>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="portofolio.html">Portofolio</a></li>
+                    <li><a href="contact.html">Contact</a></li>   
+                </ul>
+            </nav>
+        </div>
+        <main class="content">
+              <section class="hero">
+                  <img src="abah2.jpg" alt="Jika tulisan ini muncul maka gambar gagal ditampilkan.">
+              <div class="hero-content">
+                  <h1>Portofolio</h1><br>
+                    <ol>
+                        <li>Education
+                            <ul>
+                                <li>STIE Setiabudi Jakarta (2005)</li>
+                                <li>Aliyah Negeri 3 Jakarta (1985)</li>
+                                <li>MTs Negeri Jakarta (1982)</li>
+                                <li>SD Grogol Selatan 02 Petang Jakarta (1979</li>
+
+                        </li>
+                            </ul>
+                            <li>Experience
+                            <ul>
+                                <li>Financial Accounting Analyst (26-03-2010 until 31-12-2010)</li>
+                                <li>Financial Statement Analyst 1 (01-04-2006 until 25-03-2010)</li>
+                                <li>Senior Financial Report Officer (01-07-1999 until 31-03-2006)</li>
+                            </li>
+                            </ul>
+                    </ol><br>  
+<p> I received an award from my previous company in the form of 20 years Garuda Bhakti. Some of the workshops I have attended include: Workshop Basic Materials Indo 142 vs 121, Route Profitability, Basic Fares and Ticketing, etc.</p>
+<a href="index.html" class="action-btn">My Profile</a>
+              </div>
+                </section>
+        </div>
+    </div>    
+</body>
+</html>
